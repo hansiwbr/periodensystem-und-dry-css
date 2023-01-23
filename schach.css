@@ -1,0 +1,7 @@
+tr:nth-child(even) td:nth-child(odd) ,tr:nth-child(odd) td:nth-child(even)
+{
+    background-color: black;
+    width: 100px;
+    height: 100px;
+}
+    
